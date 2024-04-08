@@ -2,7 +2,7 @@ header{
 	background: black;
 }
 body{
-	background: linear-gradient(black,black,white);
+	background: linear-gradient(black,black,black);
 }
 h1{
 	font-size: 50px;
